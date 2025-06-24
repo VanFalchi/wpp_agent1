@@ -28,7 +28,6 @@ N8N_BASIC_AUTH_USER=admin
 N8N_BASIC_AUTH_PASSWORD=your_strong_password
 N8N_HOST=localhost
 N8N_PORT=5678
-WAHA_API_TOKEN=your_waha_token
 ```
 
 ### 3. Run everything with Docker
